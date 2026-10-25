@@ -1,0 +1,62 @@
+[
+  {
+    "store": "Store E",
+    "month": "2025-01",
+    "ad_spend_usd": 1174
+  },
+  {
+    "store": "Store E",
+    "month": "2025-02",
+    "ad_spend_usd": 1091
+  },
+  {
+    "store": "Store E",
+    "month": "2025-03",
+    "ad_spend_usd": 1211
+  },
+  {
+    "store": "Store E",
+    "month": "2025-04",
+    "ad_spend_usd": 1085
+  },
+  {
+    "store": "Store E",
+    "month": "2025-05",
+    "ad_spend_usd": 1154
+  },
+  {
+    "store": "Store E",
+    "month": "2025-06",
+    "ad_spend_usd": 1322
+  },
+  {
+    "store": "Store E",
+    "month": "2025-07",
+    "ad_spend_usd": 1296
+  },
+  {
+    "store": "Store E",
+    "month": "2025-08",
+    "ad_spend_usd": 1171
+  },
+  {
+    "store": "Store E",
+    "month": "2025-09",
+    "ad_spend_usd": 1176
+  },
+  {
+    "store": "Store E",
+    "month": "2025-10",
+    "ad_spend_usd": 1275
+  },
+  {
+    "store": "Store E",
+    "month": "2025-11",
+    "ad_spend_usd": 1376
+  },
+  {
+    "store": "Store E",
+    "month": "2025-12",
+    "ad_spend_usd": 1377
+  }
+]

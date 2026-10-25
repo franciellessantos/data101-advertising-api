@@ -1,0 +1,362 @@
+[
+  {
+    "store": "Store A",
+    "month": "2025-01",
+    "ad_spend_usd": 5711
+  },
+  {
+    "store": "Store A",
+    "month": "2025-02",
+    "ad_spend_usd": 4555
+  },
+  {
+    "store": "Store A",
+    "month": "2025-03",
+    "ad_spend_usd": 6298
+  },
+  {
+    "store": "Store A",
+    "month": "2025-04",
+    "ad_spend_usd": 5307
+  },
+  {
+    "store": "Store A",
+    "month": "2025-05",
+    "ad_spend_usd": 5371
+  },
+  {
+    "store": "Store A",
+    "month": "2025-06",
+    "ad_spend_usd": 7295
+  },
+  {
+    "store": "Store A",
+    "month": "2025-07",
+    "ad_spend_usd": 4931
+  },
+  {
+    "store": "Store A",
+    "month": "2025-08",
+    "ad_spend_usd": 6018
+  },
+  {
+    "store": "Store A",
+    "month": "2025-09",
+    "ad_spend_usd": 5564
+  },
+  {
+    "store": "Store A",
+    "month": "2025-10",
+    "ad_spend_usd": 6379
+  },
+  {
+    "store": "Store A",
+    "month": "2025-11",
+    "ad_spend_usd": 8504
+  },
+  {
+    "store": "Store A",
+    "month": "2025-12",
+    "ad_spend_usd": 9405
+  },
+  {
+    "store": "Store B",
+    "month": "2025-01",
+    "ad_spend_usd": 4275
+  },
+  {
+    "store": "Store B",
+    "month": "2025-02",
+    "ad_spend_usd": 3700
+  },
+  {
+    "store": "Store B",
+    "month": "2025-03",
+    "ad_spend_usd": 3723
+  },
+  {
+    "store": "Store B",
+    "month": "2025-04",
+    "ad_spend_usd": 4417
+  },
+  {
+    "store": "Store B",
+    "month": "2025-05",
+    "ad_spend_usd": 4337
+  },
+  {
+    "store": "Store B",
+    "month": "2025-06",
+    "ad_spend_usd": 4603
+  },
+  {
+    "store": "Store B",
+    "month": "2025-07",
+    "ad_spend_usd": 4544
+  },
+  {
+    "store": "Store B",
+    "month": "2025-08",
+    "ad_spend_usd": 5016
+  },
+  {
+    "store": "Store B",
+    "month": "2025-09",
+    "ad_spend_usd": 4069
+  },
+  {
+    "store": "Store B",
+    "month": "2025-10",
+    "ad_spend_usd": 4543
+  },
+  {
+    "store": "Store B",
+    "month": "2025-11",
+    "ad_spend_usd": 5575
+  },
+  {
+    "store": "Store B",
+    "month": "2025-12",
+    "ad_spend_usd": 6170
+  },
+  {
+    "store": "Store C",
+    "month": "2025-01",
+    "ad_spend_usd": 4886
+  },
+  {
+    "store": "Store C",
+    "month": "2025-02",
+    "ad_spend_usd": 4805
+  },
+  {
+    "store": "Store C",
+    "month": "2025-03",
+    "ad_spend_usd": 4817
+  },
+  {
+    "store": "Store C",
+    "month": "2025-04",
+    "ad_spend_usd": 4543
+  },
+  {
+    "store": "Store C",
+    "month": "2025-05",
+    "ad_spend_usd": 4808
+  },
+  {
+    "store": "Store C",
+    "month": "2025-06",
+    "ad_spend_usd": 5102
+  },
+  {
+    "store": "Store C",
+    "month": "2025-07",
+    "ad_spend_usd": 4706
+  },
+  {
+    "store": "Store C",
+    "month": "2025-08",
+    "ad_spend_usd": 5323
+  },
+  {
+    "store": "Store C",
+    "month": "2025-09",
+    "ad_spend_usd": 4480
+  },
+  {
+    "store": "Store C",
+    "month": "2025-10",
+    "ad_spend_usd": 5490
+  },
+  {
+    "store": "Store C",
+    "month": "2025-11",
+    "ad_spend_usd": 6156
+  },
+  {
+    "store": "Store C",
+    "month": "2025-12",
+    "ad_spend_usd": 6846
+  },
+  {
+    "store": "Store D",
+    "month": "2025-01",
+    "ad_spend_usd": 4569
+  },
+  {
+    "store": "Store D",
+    "month": "2025-02",
+    "ad_spend_usd": 4509
+  },
+  {
+    "store": "Store D",
+    "month": "2025-03",
+    "ad_spend_usd": 5368
+  },
+  {
+    "store": "Store D",
+    "month": "2025-04",
+    "ad_spend_usd": 5047
+  },
+  {
+    "store": "Store D",
+    "month": "2025-05",
+    "ad_spend_usd": 4854
+  },
+  {
+    "store": "Store D",
+    "month": "2025-06",
+    "ad_spend_usd": 5607
+  },
+  {
+    "store": "Store D",
+    "month": "2025-07",
+    "ad_spend_usd": 5129
+  },
+  {
+    "store": "Store D",
+    "month": "2025-08",
+    "ad_spend_usd": 5489
+  },
+  {
+    "store": "Store D",
+    "month": "2025-09",
+    "ad_spend_usd": 4562
+  },
+  {
+    "store": "Store D",
+    "month": "2025-10",
+    "ad_spend_usd": 5651
+  },
+  {
+    "store": "Store D",
+    "month": "2025-11",
+    "ad_spend_usd": 6059
+  },
+  {
+    "store": "Store D",
+    "month": "2025-12",
+    "ad_spend_usd": 6867
+  },
+  {
+    "store": "Store E",
+    "month": "2025-01",
+    "ad_spend_usd": 1174
+  },
+  {
+    "store": "Store E",
+    "month": "2025-02",
+    "ad_spend_usd": 1091
+  },
+  {
+    "store": "Store E",
+    "month": "2025-03",
+    "ad_spend_usd": 1211
+  },
+  {
+    "store": "Store E",
+    "month": "2025-04",
+    "ad_spend_usd": 1085
+  },
+  {
+    "store": "Store E",
+    "month": "2025-05",
+    "ad_spend_usd": 1154
+  },
+  {
+    "store": "Store E",
+    "month": "2025-06",
+    "ad_spend_usd": 1322
+  },
+  {
+    "store": "Store E",
+    "month": "2025-07",
+    "ad_spend_usd": 1296
+  },
+  {
+    "store": "Store E",
+    "month": "2025-08",
+    "ad_spend_usd": 1171
+  },
+  {
+    "store": "Store E",
+    "month": "2025-09",
+    "ad_spend_usd": 1176
+  },
+  {
+    "store": "Store E",
+    "month": "2025-10",
+    "ad_spend_usd": 1275
+  },
+  {
+    "store": "Store E",
+    "month": "2025-11",
+    "ad_spend_usd": 1376
+  },
+  {
+    "store": "Store E",
+    "month": "2025-12",
+    "ad_spend_usd": 1377
+  },
+  {
+    "store": "Store F",
+    "month": "2025-01",
+    "ad_spend_usd": 2180
+  },
+  {
+    "store": "Store F",
+    "month": "2025-02",
+    "ad_spend_usd": 2124
+  },
+  {
+    "store": "Store F",
+    "month": "2025-03",
+    "ad_spend_usd": 2349
+  },
+  {
+    "store": "Store F",
+    "month": "2025-04",
+    "ad_spend_usd": 2601
+  },
+  {
+    "store": "Store F",
+    "month": "2025-05",
+    "ad_spend_usd": 3065
+  },
+  {
+    "store": "Store F",
+    "month": "2025-06",
+    "ad_spend_usd": 2351
+  },
+  {
+    "store": "Store F",
+    "month": "2025-07",
+    "ad_spend_usd": 2404
+  },
+  {
+    "store": "Store F",
+    "month": "2025-08",
+    "ad_spend_usd": 2645
+  },
+  {
+    "store": "Store F",
+    "month": "2025-09",
+    "ad_spend_usd": 2318
+  },
+  {
+    "store": "Store F",
+    "month": "2025-10",
+    "ad_spend_usd": 2168
+  },
+  {
+    "store": "Store F",
+    "month": "2025-11",
+    "ad_spend_usd": 3072
+  },
+  {
+    "store": "Store F",
+    "month": "2025-12",
+    "ad_spend_usd": 3457
+  }
+]
